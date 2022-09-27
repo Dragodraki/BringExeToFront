@@ -35,14 +35,14 @@ USAGE
 -------------------------------
 You have to use either a command-line interface like cmd, powershell or other console or an automated call from script/program.
 
-Syntax usage:
-BringExeToFront.exe PID|ProcessName [/Parameter]
+Syntax usage:  
+BringExeToFront.exe PID|ProcessName [/Parameter]  
 
-Parameters:
-/R    -> reverse, use first opened process if same name
-/H    -> show this help instead
+Parameters:  
+/R    -> reverse, use first opened process if same name  
+/H    -> show this help instead  
 
-Examples:
-BringExeToFront.exe 7032
-BringExeToFront.exe calc.exe
-BringExeToFront.exe calc.exe /R
+Examples:  
+BringExeToFront.exe 7032  
+BringExeToFront.exe calc.exe  
+BringExeToFront.exe calc.exe /R  
