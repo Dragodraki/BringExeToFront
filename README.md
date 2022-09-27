@@ -41,8 +41,8 @@ Syntax usage:
  BringExeToFront.exe PID|ProcessName [/Parameter]  
 
 Parameters:  
- /R    -> reverse, use first opened process if same name  
- /H    -> show this help instead  
+ /R    -> reverse, use first opened process if same name 
+ /H    -> show this help instead 
 
 Examples:  
  BringExeToFront.exe 7032  
