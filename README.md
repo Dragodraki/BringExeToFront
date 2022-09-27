@@ -1,7 +1,7 @@
 # BringExeToFront
 Sets any user-based Window to foreground/focus by ProcessId or -name
 
-<img src="https://user-images.githubusercontent.com/76787321/192548754-3b8660cb-10ed-45f9-970b-5e274bff4b0f.png" width="23%"></img> 
+[![Download BringExeToFront x86](https://user-images.githubusercontent.com/76787321/192548754-3b8660cb-10ed-45f9-970b-5e274bff4b0f.png" width="23%)](https://github.com/Dragodraki/BringExeToFront/raw/main/Release/BringExeToFront.exe)
 
 
 -------------------------------
