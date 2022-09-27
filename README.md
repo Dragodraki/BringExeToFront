@@ -41,12 +41,12 @@ Syntax usage:
 &ensp BringExeToFront.exe PID|ProcessName [/Parameter]
 
 Parameters:  
-<pre> /R    -> reverse, use first opened process if same name </pre>
-<pre> /H    -> show this help instead </pre>
+<br> /R    -> reverse, use first opened process if same name <br />
+<br> /H    -> show this help instead <br />
 
 Examples:  
-<pre> BringExeToFront.exe 7032 </pre>
-<pre> BringExeToFront.exe calc.exe </pre>
-<pre> BringExeToFront.exe calc.exe /R </pre>
+<br> BringExeToFront.exe 7032 <br />
+<br> BringExeToFront.exe calc.exe <br />
+<br> BringExeToFront.exe calc.exe /R <br />
 
 Hint: Please be aware that Microsoft possible plans to disable WMIC by default in the future. In this case activating window by process name wouldn't be longer possible for BringExeToFront.
