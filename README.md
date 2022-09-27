@@ -21,7 +21,7 @@ LICENSE (FREEWARE)
 -------------------------------
 Permissions:
 + Forks are allowed, but they have to kept free of charge ;)
-+ Private/Commcercial usage is allowed as long you don't demand money for it ;)
++ Private and Commcercial usage is allowed as long you don't demand money for it ;)
 + Free Distribution to friends or strangers is allowed, even wanted ;)
 
 Limitations:
