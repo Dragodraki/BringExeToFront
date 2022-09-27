@@ -23,6 +23,7 @@ Permissions:
 + Forks are allowed, but they have to kept free of charge ;)
 + Commcercial usage is allowed as long you don't demand money for it ;)
 + Free Distribution to friends or strangers is allowed, even wanted ;)
+
 Limitations:
 - Use the app at your own risk!
 - Don't sell it as product!
