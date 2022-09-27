@@ -38,7 +38,7 @@ USAGE
 You have to use either a command-line interface like cmd, powershell or other console or an automated call from script/program.
 
 Syntax usage:  
-BringExeToFront.exe PID|ProcessName [/Parameter]```
+`` &nbsp; &nbsp;`` BringExeToFront.exe PID|ProcessName [/Parameter]
 
 Parameters:  
 /R    -> reverse, use first opened process if same name
