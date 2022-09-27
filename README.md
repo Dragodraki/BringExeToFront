@@ -17,11 +17,11 @@ Hey, after all, you explicit asked BringExeToFront doing so, this is why nobody 
 
 
 -------------------------------
-LICENSE
+LICENSE (FREEWARE)
 -------------------------------
-Short form:
 - Use the app at your own risk!
-- Don't re-upload with your name as programmer.
 - Don't sell it as product!
-+ Commcercial usage is allowed ;)
+- Don't abuse it for malicious purposes (e.g. malware)!
++ Forks are allowed, but they have to kept free of charge ;)
++ Commcercial usage is allowed as long you don't demand money for it ;)
 + Free Distribution to friends or strangers is allowed, even wanted ;)
