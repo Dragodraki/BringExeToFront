@@ -38,15 +38,15 @@ USAGE
 You have to use either a command-line interface like cmd, powershell or other console or an automated call from script/program.
 
 Syntax usage:  
-&ensp BringExeToFront.exe PID|ProcessName [/Parameter]
+&nbsp BringExeToFront.exe PID|ProcessName [/Parameter]
 
 Parameters:  
-<br> /R    -> reverse, use first opened process if same name <br />
-<br> /H    -> show this help instead <br />
+/R    -> reverse, use first opened process if same name
+/H    -> show this help instead
 
 Examples:  
-<br> BringExeToFront.exe 7032 <br />
-<br> BringExeToFront.exe calc.exe <br />
-<br> BringExeToFront.exe calc.exe /R <br />
+BringExeToFront.exe 7032
+BringExeToFront.exe calc.exe
+BringExeToFront.exe calc.exe /R
 
 Hint: Please be aware that Microsoft possible plans to disable WMIC by default in the future. In this case activating window by process name wouldn't be longer possible for BringExeToFront.
