@@ -1,6 +1,6 @@
 # BringExeToFront
 Sets any user-based Window to foreground/focus by ProcessId or -name  
-(Date: 27.09.2022 - no fork)
+(Release Date: 27.09.2022, Publisher: Dragodraki alias Dreamland, Notice: no fork)
 <br/>
 
 [<img src="https://user-images.githubusercontent.com/76787321/192548754-3b8660cb-10ed-45f9-970b-5e274bff4b0f.png" width="23%"></img>](https://github.com/Dragodraki/BringExeToFront/releases/latest/download/BringExeToFront.exe)
