@@ -1,5 +1,6 @@
 # BringExeToFront
 Sets any user-based Window to foreground/focus by ProcessId or -name  
+(Date: 27.09.2022 - no fork)
 <br/>
 
 [<img src="https://user-images.githubusercontent.com/76787321/192548754-3b8660cb-10ed-45f9-970b-5e274bff4b0f.png" width="23%"></img>](https://github.com/Dragodraki/BringExeToFront/releases/latest/download/BringExeToFront.exe)
@@ -25,8 +26,8 @@ Hey, after all, you explicit asked BringExeToFront doing so, this is why nobody 
 LICENSE (FREEWARE)
 -------------------------------
 Permissions:
-+ Forks are allowed, but they have to kept free of charge ;)
 + Private and Commcercial usage is allowed as long you don't demand money for it ;)
++ Forks are allowed, but they have to kept free of charge ;)
 + Free Distribution to friends or strangers is allowed, even wanted ;)
 
 Limitations:
