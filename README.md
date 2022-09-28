@@ -32,7 +32,7 @@ Permissions:
 
 Limitations:
 - Use the app at your own risk!
-- Don't sell it as product or claim yourself as its designer!
+- Don't sell it as product or pretend to be its developer!
 - Don't abuse it for malicious purposes!
 
 
