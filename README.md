@@ -3,7 +3,7 @@ Sets any user-based Window to foreground/focus by ProcessId or -name
 (Release Date: 27.09.2022, Publisher: Dragodraki alias Dreamland, Notice: designed by me and no fork)
 <br/>
 
-[<img src="https://user-images.githubusercontent.com/76787321/192548754-3b8660cb-10ed-45f9-970b-5e274bff4b0f.png" width="23%"></img>](https://github.com/Dragodraki/BringExeToFront/releases/latest/download/BringExeToFront.exe)
+[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/BringExeToFront/releases/latest/download/BringExeToFront.exe)
 <br/>
 
 -------------------------------
